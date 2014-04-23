@@ -2,6 +2,7 @@ jquery-stopswipes
 =====================
 
 [![Build Status](https://travis-ci.org/xadn/jquery-stopswipes.svg)](https://travis-ci.org/xadn/jquery-stopswipes)
+[![Open Bugs](https://img.shields.io/badge/open%20bugs-3-red.svg)](https://travis-ci.org/xadn/jquery-stopswipes)
 
 A jQuery plugin for apps with lots of horizontal scrolling.
 
